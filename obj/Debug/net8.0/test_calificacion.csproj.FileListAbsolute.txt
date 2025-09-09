@@ -1,0 +1,14 @@
+C:\Users\Diseño 2\Desktop\CSharp_luis\test_calificacion\bin\Debug\net8.0\test_calificacion.exe
+C:\Users\Diseño 2\Desktop\CSharp_luis\test_calificacion\bin\Debug\net8.0\test_calificacion.deps.json
+C:\Users\Diseño 2\Desktop\CSharp_luis\test_calificacion\bin\Debug\net8.0\test_calificacion.runtimeconfig.json
+C:\Users\Diseño 2\Desktop\CSharp_luis\test_calificacion\bin\Debug\net8.0\test_calificacion.dll
+C:\Users\Diseño 2\Desktop\CSharp_luis\test_calificacion\bin\Debug\net8.0\test_calificacion.pdb
+C:\Users\Diseño 2\Desktop\CSharp_luis\test_calificacion\obj\Debug\net8.0\test_calificacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diseño 2\Desktop\CSharp_luis\test_calificacion\obj\Debug\net8.0\test_calificacion.AssemblyInfoInputs.cache
+C:\Users\Diseño 2\Desktop\CSharp_luis\test_calificacion\obj\Debug\net8.0\test_calificacion.AssemblyInfo.cs
+C:\Users\Diseño 2\Desktop\CSharp_luis\test_calificacion\obj\Debug\net8.0\test_calificacion.csproj.CoreCompileInputs.cache
+C:\Users\Diseño 2\Desktop\CSharp_luis\test_calificacion\obj\Debug\net8.0\test_calificacion.dll
+C:\Users\Diseño 2\Desktop\CSharp_luis\test_calificacion\obj\Debug\net8.0\refint\test_calificacion.dll
+C:\Users\Diseño 2\Desktop\CSharp_luis\test_calificacion\obj\Debug\net8.0\test_calificacion.pdb
+C:\Users\Diseño 2\Desktop\CSharp_luis\test_calificacion\obj\Debug\net8.0\test_calificacion.genruntimeconfig.cache
+C:\Users\Diseño 2\Desktop\CSharp_luis\test_calificacion\obj\Debug\net8.0\ref\test_calificacion.dll
